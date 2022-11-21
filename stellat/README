@@ -1,0 +1,9 @@
+Install next plugins:
+  - Elementor
+  - Redux
+  
+Created custom Elementor Widgets 
+  - elementor-list-widget
+  
+Footer filled with redux-framefork 
+  - wp_elem_stellar/inc/redus-config.php
