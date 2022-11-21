@@ -1,0 +1,5 @@
+Custom Plugin (Rooms booking)
+  - custom control page (Room) on wp-admin
+      - meta-boxes/taxonomy
+      
+  - seatting control page (Tkbooking) on wp-admin with functions to display basic info in html
